@@ -1,9 +1,10 @@
 DOMAIN-SUFFIX,twitch.tv
 
-DOMAIN-SUFFIX,spotify.com
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,pscdn
+DOMAIN-KEYWORD,scdn
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
+
 DOMAIN-KEYWORD,tidal
 
 DOMAIN-KEYWORD,linkedin
