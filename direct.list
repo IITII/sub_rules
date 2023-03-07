@@ -1,3 +1,5 @@
+IP-CIDR,123.126.105.0/25
+
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,px.effirst.com
 DOMAIN-SUFFIX,tencent.com
@@ -7,3 +9,7 @@ DOMAIN-SUFFIX,samsungdm.com
 # DOMAIN-SUFFIX,devdot.tech
 # DOMAIN-SUFFIX,alleva.tech
 # DOMAIN-SUFFIX,ladhub.me
+
+DOMAIN-KEYWORD,webofknowledge
+DOMAIN-KEYWORD,clarivate
+DOMAIN-KEYWORD,cloudfront
